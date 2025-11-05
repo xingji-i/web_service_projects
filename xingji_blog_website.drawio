@@ -1,9 +1,15 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="27.0.5">
   <diagram name="Page-1" id="NJrBqxOARFeT-4AJClLn">
-    <mxGraphModel>
+    <mxGraphModel dx="420" dy="715" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="kqhM9VhbqOHmCWL9Zb_a-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;博客系统总览&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=auto;" vertex="1" parent="1">
+          <mxGeometry x="148" y="-269" width="120" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="kqhM9VhbqOHmCWL9Zb_a-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;用户系统&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="67" y="-193" width="46" height="125" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
