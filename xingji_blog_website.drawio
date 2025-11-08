@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="28.2.9">
   <diagram name="Page-1" id="NJrBqxOARFeT-4AJClLn">
-    <mxGraphModel dx="1356" dy="1588" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1937" dy="1926" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -318,7 +318,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fcQnEE1etQBeXgzNfz4U-1" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;&lt;b style=&quot;&quot;&gt;博客系统总览&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;" vertex="1" parent="1">
-          <mxGeometry x="677" y="780" width="335" height="65" as="geometry" />
+          <mxGeometry x="642" y="779" width="335" height="65" as="geometry" />
         </mxCell>
         <mxCell id="fcQnEE1etQBeXgzNfz4U-2" value="&lt;font&gt;用&lt;/font&gt;&lt;div&gt;&lt;font&gt;户&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;系&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;统&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeWidth=1.5;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="492.5" y="906" width="41" height="158" as="geometry" />
